@@ -50,6 +50,6 @@
         "steno": "^1.0.0",
         "yargs": "^17.7.2",
         "yt-search": "^2.10.3",
-        "ytdl-core": "github:khlevon/node-ytdl-core#v4.11.4-patch.2",
+        "ytdl-core": "latest",
     }
 }
