@@ -12,6 +12,7 @@
         "@whiskeysockets/baileys": "latest",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@colors/colors": "^1.6.0",
+        "@distube/ytdl-core": "latest",
         "@hapi/boom": "^10.0.0",
         "api-dylux": "^1.8.4",
         "awesome-phonenumber": "^2.70.0",
