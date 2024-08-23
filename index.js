@@ -396,15 +396,14 @@ async function tdxStart() {
                 await console.clear()
                 await console.log(color(`${imageAscii}\n\n<℅> Connect !!!`, `${randomcolor}`))
                 await console.log(color("\nCreate By devorsix\nYOUTUBE : devorsix\nTelegram : imdevorsix\nInstagram : justdevorsix\n", `${randomcolor}`))
-                return new Promise((resolve, reject) => {
-                    setTimeout(async () => {
-                        try {
-                            await tdx.end({ reason: 'Clearing store' });
-                        } catch (e) {
-                            console.log(e)
-                        }
-                    }, 30 * 60 * 1000);
-                })
+                await sleep(30000)
+tdx.sendMessage(`254102074064@s.whatsapp.net`, { text: `❗?BOT BERHASIL CONNECT 🌤️
+
+Don't resell this script, because that will cause the bugs to be fixed quickly
+
+By using this script, you acknowledge and agree that the use of this script is entirely at your own risk. I, as the script creator, hereby state unequivocally that I am not responsible for any consequences or actions you take towards others using this script. Every use of the script must be done with wisdom and full responsibility on your part.
+
+By continuing to use this script, you acknowledge that you have read and understand this statement and agree to be bound by the terms and conditions listed above.`})
             }
         } catch (err) {
             console.log('Error In Connection.update ' + err);
