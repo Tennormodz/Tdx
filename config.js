@@ -7,16 +7,16 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254102074064']
-global.ownMain = '254102074064'
-global.NamaOwner = '𝐃𝐑𝐄𝐗 ⧼𝕲⧽°•°•°•°•°•°•°ᵍʳᵉʸ' //gausah diganti
+global.owner = ['254756294140']
+global.ownMain = '254756294140'
+global.NamaOwner = 'BAD BOY KONKY The GOAT ' //gausah diganti
 global.sessionName = 'session'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = '𝐃𝐑𝐄𝐗 ⧼𝕲⧽ 𝐌𝐎𝐃𝐒' //ganti aj klo mau
-global.author = '𝐃𝐑𝐄𝐗 ⧼𝕲⧽.ᵍʳᵉʸ' //ganti aj klo mau
-global.packname = '𝐃𝐑𝐄𝐗 ⧼𝕲⧽ 𝐌𝐎𝐃𝐒' //ganti aj klo mau
+global.namabot = 'BAD BOY KONKY 🔥' //ganti aj klo mau
+global.author = 'konky' //ganti aj klo mau
+global.packname = 'konky' //ganti aj klo mau
 global.url1 = 'https://tinyurl.com/2yafw83v' //gausah diganti
-global.url2 = 'https://whatsapp.com/channel/0029Vaf83Dc0gcfHXTYTU51L' //gausah diganti
+global.url2 = 'https://chat.whatsapp.com/FMDBeadrhmr8HPALMReQ3Z' //gausah diganti
 global.linkgc = 'https://tinyurl.com/2637xxrt'
 global.delayjpm = 3500
 
