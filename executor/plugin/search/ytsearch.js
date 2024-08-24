@@ -30,7 +30,7 @@ module.exports = {
                 kocak.push({
                     body: { text: `${data.title}` },
                     footer: {
-                        text: '𝐃𝐑𝐄𝐗 ⧼𝕲⧽ 𝐌𝐎𝐃𝐒'
+                        text: 'Trash dex'
                     },
                     header: { hasMediaAttachment: true, imageMessage: media },
                     nativeFlowMessage: {
@@ -62,7 +62,7 @@ module.exports = {
                     message: {
                         interactiveMessage: {
                             body: { text: `Results from \`${q}\`` },
-                            footer: { text: "𝐃𝐑𝐄𝐗 ⧼𝕲⧽ 𝐌𝐎𝐃𝐒" },
+                            footer: { text: "Trash dex" },
                             carouselMessage: { cards: kocak }
                         }
                     }
