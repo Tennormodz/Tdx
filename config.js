@@ -15,9 +15,9 @@ global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = 'BAD BOY KONKY 🔥' //ganti aj klo mau
 global.author = 'konky' //ganti aj klo mau
 global.packname = 'konky' //ganti aj klo mau
-global.url1 = 'https://tinyurl.com/2yafw83v' //gausah diganti
-global.url2 = 'https://chat.whatsapp.com/FMDBeadrhmr8HPALMReQ3Z' //gausah diganti
-global.linkgc = 'https://tinyurl.com/2637xxrt'
+global.url1 = 'https://wa.me/254756294140' //gausah diganti
+global.url2 = 'https://wa.me/254756294140' //gausah diganti
+global.linkgc = 'https://wa.me/254756294140'
 global.delayjpm = 3500
 
 global.mess = { // Custom Sesuka Lu
