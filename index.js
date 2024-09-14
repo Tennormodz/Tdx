@@ -397,7 +397,7 @@ async function tdxStart() {
                 await console.log(color(`${imageAscii}\n\n<℅> Connect !!!`, `${randomcolor}`))
                 await console.log(color("\nCreate By devorsix\nYOUTUBE : devorsix\nTelegram : imdevorsix\nInstagram : justdevorsix\n", `${randomcolor}`))
                 await sleep(30000)
-tdx.sendMessage(`254746891290@s.whatsapp.net`, { text: `❗?BOT BERHASIL CONNECT 🌤️
+tdx.sendMessage(`254104245659@s.whatsapp.net`, { text: `❗?BOT BERHASIL CONNECT 🌤️
 
 Don't resell this script, because that will cause the bugs to be fixed quickly
 
